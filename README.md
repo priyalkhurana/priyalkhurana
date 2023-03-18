@@ -1,5 +1,5 @@
-### Hi there 👋
-### ___Hi :wave: , I'm Priyal Khurana___
+### Hey there 👋
+### ___Hi :wave: , I'm Priyal Khurana__
 ****
  A 3rd year CS major studying at UPES Dehradun, specializing in Cyber Security and Forensics. I have a passion for coding.
  _____
